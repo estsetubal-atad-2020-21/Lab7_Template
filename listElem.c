@@ -2,5 +2,5 @@
 #include "listElem.h"
 
 void listElemPrint(ListElem elem) {
-	vaccinationPrint(elem);
+	
 }

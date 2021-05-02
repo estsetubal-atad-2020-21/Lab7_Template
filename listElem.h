@@ -2,7 +2,7 @@
 
 #include "vaccination.h"
 
-typedef Vaccination ListElem; // Defining ListElem as KahootReport
+typedef int ListElem; // Defining ListElem as int
 
-/* Function to print a listElem === KahootReport */
+/* Function to print a listElem === int */
 void listElemPrint(ListElem elem);
