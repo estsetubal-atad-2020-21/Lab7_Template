@@ -11,7 +11,7 @@ This is a C program template tailored for:
 
 The following *comma separaved value* (CSV) files contain all information that must be imported:
 
-- `stats_pl.csv` - Statistics from the Premier League, from 2006-2007 to 2017-2018 seasons. 
+- `stats_pl.csv` - Statistics from the Premier League Football, from 2006-2007 to 2017-2018 seasons. 
 
 ### Abstract Data Types
 
