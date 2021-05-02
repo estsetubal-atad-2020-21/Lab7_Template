@@ -9,7 +9,7 @@ This is a C program template tailored for:
 
 ### CSV File
 
-The following *comma separaved value* (CSV) files contain all information that must be imported:
+The following *comma separaved value* (CSV) file contain all information that must be imported:
 
 - `stats_pl.csv` - Statistics from the Premier League Football, from 2006-2007 to 2017-2018 seasons. 
 
